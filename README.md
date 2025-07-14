@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FAYYDHR and I'm a 📚 Informatics Student | Frontend & Mobile Developer | Exploring AI Integration, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is FAYYDHR and I'm a Computer Science Engineering Student </h2>
 
 ###
 
