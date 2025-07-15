@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is FAYYDHR and I'm a Computer Science Engineering Student </h2>
 
+
 ###
 
 <div align="center">
@@ -51,6 +52,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayydhr/fayydhr/output/pacman-contribution-graph-dark.svg">
